@@ -1,7 +1,7 @@
-# Corpus Release
+# Legal Will Statements Corpus for Natural Language Inference
 
-Welcome to the homepage for the **Legal Will Statements Corpus for 
-Natural Language Inference**, 
+Welcome to the homepage for the Corpus and Code release for the 
+**Legal Will Statements Corpus for Natural Language Inference**, 
 as described in the paper "Assessment of Legal Will Statements as 
 Natural Language Inference", EMNLP 2022.
 
@@ -15,13 +15,10 @@ consequences. Use of this information or resources does not create an
 attorney-client relationship.
 
 # License
- 
-<a rel=“license” href=“http://creativecommons.org/licenses/by-nc/4.0/”>
-<img alt=“Creative Commons License” style=“border-width:0" 
- src=“https://i.creativecommons.org/l/by-nc/4.0/88x31.png” />
- </a>
-<br />
+
+<!-- [Creative Common License](http://creativecommons.org/licenses/by-nc/4.0) -->
+
+[](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 This work is licensed under a 
-<a rel=“license” href=“http://creativecommons.org/licenses/by-nc/4.0/”>
- Creative Commons Attribution-NonCommercial 4.0 International License</a>
+[Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)
 
