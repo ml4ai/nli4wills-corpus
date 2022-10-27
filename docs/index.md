@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Legal Will Statements for Natural Language Inference
 
 Welcome to the homepage for the Corpus and Code release for the
