@@ -1,18 +1,17 @@
-# Legal Will Statements Corpus for Natural Language Inference
+# Legal Will Statements for Natural Language Inference
 
-Welcome to the homepage for the Corpus and Code release for the 
-**Legal Will Statements Corpus for Natural Language Inference**, 
-as described in the paper "Assessment of Legal Will Statements as 
-Natural Language Inference", EMNLP 2022.
+Welcome to the homepage for the Corpus and Code release for the
+research described in the paper "Assessment of Legal Will Statements
+as Natural Language Inference", EMNLP 2022.
 
 # Disclaimer
 
-The information and resources made available in this Github repository 
-are not legal advice. Do not rely on them for legal advice or decisions. 
-Consult with a qualified legal professional to obtain advice specific to 
-your situation, and jurisdiction, before making any decision with legal 
-consequences. Use of this information or resources does not create an 
-attorney-client relationship.
+The information and resources made available in this Github repository
+are not legal advice. Do not rely on them for legal advice or
+decisions.  Consult with a qualified legal professional to obtain
+advice specific to your situation, and jurisdiction, before making any
+decision with legal consequences. Use of this information or resources
+does not create an attorney-client relationship.
 
 # License
 
