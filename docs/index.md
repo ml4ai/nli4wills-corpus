@@ -10,7 +10,7 @@ as Natural Language Inference", EMNLP 2022
 [[available in arXiv]](https://arxiv.org/abs/2210.16989).
 
 Clone the repository or download files directory from the GitHub
-repository: https://github.com/ml4ai/nli4wills-corpus
+repository: [https://github.com/ml4ai/nli4wills-corpus](https://github.com/ml4ai/nli4wills-corpus)
 
 The corpus is released in the `data/` directory as a 1.8MB .zip file:
 `corpus.zip`
