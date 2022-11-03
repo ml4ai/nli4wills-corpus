@@ -7,7 +7,7 @@ layout: default
 Welcome to the homepage for the Corpus and Code release for the
 research described in the paper "Assessment of Legal Will Statements
 as Natural Language Inference", EMNLP 2022
-[available in arXiv](https://arxiv.org/abs/2210.16989).
+[ [available in arXiv] ](https://arxiv.org/abs/2210.16989).
 
 Clone the repository or download files directory from the GitHub
 repository: https://github.com/ml4ai/nli4wills-corpus
