@@ -98,3 +98,5 @@ Sentence-Transformer models
 * [all-distilroberta-v1](https://huggingface.co/sentence-transformers/all-distilroberta-v1)
 * [multi-qa-mpnet-base-dot-v1](https://huggingface.co/sentence-transformers/multi-qa-mpnet-base-dot-v1)
 * [all-mpnet-base-v2](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
+
+We used LIME for error analysis. Original code and the paper for LIME can be found [here](https://github.com/marcotcr/lime).
