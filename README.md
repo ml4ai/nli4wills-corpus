@@ -73,6 +73,22 @@ Sentence-Transformer models (trained on our data)
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. See [LICENSE.md](https://github.com/ml4ai/nli4wills-corpus/blob/main/LICENSE.md) for more details.
 
+## Paper
+
+If you use this data or code, please cite our paper:
+
+```
+@inproceedings{kwak-et-al-nllp2023-error-analysis,
+    title = "Transferring Legal Natural Language Inference Model from a US State to Another: What Makes It So Hard?",
+    author = "Alice Kwak and Gaetano Forte and Derek Bambauer and Mihai Surdeanu",
+    booktitle = "Proceedings of the Natural Legal Language Processing Workshop 2023",
+    month = dec,
+    year = "2023",
+    url = "https://clulab.org/papers/nllp2023_kwak-et-al.pdf",
+    abstract = "This study investigates whether a legal natural language inference (NLI) model trained on the data from one US state can be transferred to another state. We fine-tuned a pre-trained model on the task of evaluating the validity of legal will statements, once with the dataset containing the Tennessee wills and once with the dataset containing the Idaho wills. Each model’s performance on the in-domain setting and the out-of-domain setting are compared to see if the models can across the states. We found that the model trained on one US state can be mostly transferred to another state. However, it is clear that the model’s performance drops in the out-of-domain setting. The F1 scores of the Tennessee model and the Idaho model are 96.41 and 92.03 when predicting the data from the same state, but they drop to 66.32 and 81.60 when predicting the data from another state. Subsequent error analysis revealed that there are two major sources of errors. First, the model fails to recognize equivalent laws across states when there are stylistic differences between laws. Second, difference in statutory section numbering system between the states makes it difficult for the model to locate laws relevant to the cases being predicted on. This analysis provides insights on how the future NLI system can be improved. Also, our findings offer empirical support to legal experts advocating the standardization of legal documents."
+}
+```
+
 ## Contact
 
 If you have any questions or comments on our work, please contact the person below.
